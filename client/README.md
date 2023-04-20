@@ -1,5 +1,3 @@
-# Выпускная работа студента Skillbox по курсу Javascript "Продвинутый уровень" Тодор О.В.
-
 ## Установка
 * Установите [Node.js](https://nodejs.org/en/download/)
 `brew install node`
