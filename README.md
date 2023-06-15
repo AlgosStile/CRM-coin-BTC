@@ -8,7 +8,7 @@
 ![Accounts preview](./preview/accounts.png)
 ![Account preview](./preview/account.png)
 ![Banks preview](./preview/banks.png)
-![Currency preview](./preview/currency.png)# CRM-coin-Skillbox
+![Currency preview](./preview/currency.png)# CRM-coin-js
 
 Миссия 
 Разработка банковской системы хранения и операций над криптовалютными средствами. 
