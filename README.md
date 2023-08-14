@@ -7,7 +7,6 @@
 ![Login preview](./preview/login.png)
 ![Accounts preview](./preview/accounts.png)
 ![Account preview](./preview/account.png)
-![Banks preview](./preview/banks.png)
 ![Currency preview](./preview/currency.png)# CRM-coin-js
 
 Миссия 
@@ -27,7 +26,6 @@
 Форма для перевода средств 
 Подробная история баланса по карте 
 Мониторинг курса валют и валютные переводы 
-Страница отображения точек банком тов на карте
  
 
 Технические требования:
